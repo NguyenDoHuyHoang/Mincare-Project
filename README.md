@@ -1,2 +1,2 @@
-# Mincare-Project
+# Mindcare-Project
 ReactTS, JavaSpringBoot
